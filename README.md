@@ -1,5 +1,7 @@
-# CSScomb plugin for Espresso
+# CSScomb plugin for Espresso 2
 This is a plugin for MacRabbit's [Espresso](http://macrabbit.com/espresso/) code editor with support for the [CSScomb](https://github.com/csscomb/csscomb.js) plugin.
+
+Note: This plugin doesn't work with newer versions of Espresso (v3 and up). Use [this fork](https://github.com/eablokker/espresso-csscomb) by [eablokker](https://github.com/eablokker) instead.
 
 ## Requirements
 - [Espresso v2.1+](http://macrabbit.com/espresso/)
